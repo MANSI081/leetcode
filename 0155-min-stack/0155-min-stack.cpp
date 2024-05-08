@@ -33,7 +33,7 @@
 //                 s.pop();
 //             }
 //             else{
-//                 min=2*min-s.top();
+//                 min=2ll*min-s.top();
 //                 s.pop();
 //             }
 //         }
@@ -78,7 +78,7 @@ public:
         else if(x <= mn){
             // put 2*x - mn into stack
             s.push(2ll*x - mn);
-            mn = x;
+            mn = x;//modify mn
         }
         else{
             s.push(x);
@@ -92,6 +92,7 @@ public:
             // mn = 2*mn - s.top()
             mn = 2ll*mn - s.top();
         }
+        
         s.pop();
     }
     
@@ -99,9 +100,9 @@ public:
     int top() {
         if(s.empty()) return -1;
         if(s.top() < mn){
-            return mn;
+            return mn;//minimum retrurn
         }
-        return s.top();
+        return s.top();//maximum return
     }
     
     int getMin() {

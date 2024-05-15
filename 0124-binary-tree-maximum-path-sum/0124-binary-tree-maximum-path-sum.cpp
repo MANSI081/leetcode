@@ -18,9 +18,12 @@ public:
     }
     int maxPathDown(TreeNode* node,int &maxi){
         if(node==NULL)return 0;
-        int left=max(0,maxPathDown(node->left,maxi));
+        int left=max(0,maxPathDown(node->left,maxi));//if negative sum come then take it as 0
         int right=max(0,maxPathDown(node->right,maxi));
         maxi=max(maxi,left+right+node->val);
         return (node->val)+max(left,right);
     }
+
+
+    
 };

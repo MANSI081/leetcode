@@ -1,15 +1,13 @@
 class Solution {
 public:
-// Time complexity: O(N)
-// Space complexity: O(N)
     int countCompleteDayPairs(vector<int>& hours) {
-        long long ans=0;
-        unordered_map<int,int>ump;
-        for(auto h:hours){
-            ans+=ump[(24-h%24)%24];
-            ump[h%24]++;
-            
-    }
-    return ans;
+     int n=hours.size();
+     int count=0;
+     for(int i=0;i<n;i++){
+        for(int j=i+1;j<n;j++){
+            if((hours[i] + hours[j])%24==0)count++;
+        }
+     }
+     return count;   
     }
 };

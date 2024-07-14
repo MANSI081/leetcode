@@ -27,11 +27,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/MANSI081/leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MANSI081/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MANSI081/leetcode/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/MANSI081/leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MANSI081/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MANSI081/leetcode/tree/master/1720-crawler-log-folder) |
+## Hash Table
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/MANSI081/leetcode/tree/master/0726-number-of-atoms) |
+## Sorting
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/MANSI081/leetcode/tree/master/0726-number-of-atoms) |
 <!---LeetCode Topics End-->

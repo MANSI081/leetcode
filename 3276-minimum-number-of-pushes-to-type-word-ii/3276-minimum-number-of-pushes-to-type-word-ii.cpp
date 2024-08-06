@@ -16,7 +16,7 @@ public:
 
             int press=i/8+1;
 
-            result+=press*freq;
+            result+=press*freq;//utni baar press karna padhega jitni baar frequency hai
         }
         return result;
     }

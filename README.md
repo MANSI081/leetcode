@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MANSI081/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/MANSI081/leetcode/tree/master/1720-crawler-log-folder) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/MANSI081/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MANSI081/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -44,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0726-number-of-atoms](https://github.com/MANSI081/leetcode/tree/master/0726-number-of-atoms) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MANSI081/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MANSI081/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/MANSI081/leetcode/tree/master/0726-number-of-atoms) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MANSI081/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
 | ------- |
@@ -60,4 +63,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/MANSI081/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MANSI081/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MANSI081/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/MANSI081/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/MANSI081/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MANSI081/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2155-find-missing-observations](https://github.com/MANSI081/leetcode/tree/master/2155-find-missing-observations) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MANSI081/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Math
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/MANSI081/leetcode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/MANSI081/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MANSI081/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2155-find-missing-observations](https://github.com/MANSI081/leetcode/tree/master/2155-find-missing-observations) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/MANSI081/leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1803-average-waiting-time](https://github.com/MANSI081/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MANSI081/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2155-find-missing-observations](https://github.com/MANSI081/leetcode/tree/master/2155-find-missing-observations) |
 ## String
 |  |
 | ------- |

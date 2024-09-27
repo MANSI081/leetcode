@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MANSI081/leetcode/tree/master/0179-largest-number) |
+| [0731-my-calendar-ii](https://github.com/MANSI081/leetcode/tree/master/0731-my-calendar-ii) |
 | [0870-magic-squares-in-grid](https://github.com/MANSI081/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1720-crawler-log-folder](https://github.com/MANSI081/leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MANSI081/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/MANSI081/leetcode/tree/master/0731-my-calendar-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MANSI081/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Memoization
 |  |
@@ -163,4 +165,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/MANSI081/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/MANSI081/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MANSI081/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/MANSI081/leetcode/tree/master/0731-my-calendar-ii) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/MANSI081/leetcode/tree/master/0731-my-calendar-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/MANSI081/leetcode/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/MANSI081/leetcode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->

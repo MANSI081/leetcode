@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/MANSI081/leetcode/tree/master/0179-largest-number) |
 | [0731-my-calendar-ii](https://github.com/MANSI081/leetcode/tree/master/0731-my-calendar-ii) |
 | [0870-magic-squares-in-grid](https://github.com/MANSI081/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1256-rank-transform-of-an-array](https://github.com/MANSI081/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/MANSI081/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/MANSI081/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1720-crawler-log-folder](https://github.com/MANSI081/leetcode/tree/master/1720-crawler-log-folder) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/MANSI081/leetcode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/MANSI081/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MANSI081/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/MANSI081/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MANSI081/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/MANSI081/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MANSI081/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/MANSI081/leetcode/tree/master/0179-largest-number) |
 | [0726-number-of-atoms](https://github.com/MANSI081/leetcode/tree/master/0726-number-of-atoms) |
+| [1256-rank-transform-of-an-array](https://github.com/MANSI081/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MANSI081/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |

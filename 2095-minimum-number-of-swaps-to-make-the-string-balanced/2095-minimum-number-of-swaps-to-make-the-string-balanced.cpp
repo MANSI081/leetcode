@@ -16,18 +16,30 @@ public:
 // 
     int minSwaps(string s) {
 
-    // with stack
-        stack<char>st;
+// with stack
+        // stack<char>st;
 
+        // for(char &ch: s){
+        //     if(ch=='['){
+        //         st.push(ch);
+        //     } else if(!st.empty()){
+        //         st.pop(); //balancing closing bracket with an open bracket in stack
+
+        //     }
+        // }
+        // // size of stack= number of open barckets in the stack
+        // return (st.size()+1)/2;
+
+
+//WITHOUT STACK 
+        int size=0;
         for(char &ch: s){
             if(ch=='['){
-                st.push(ch);
-            } else if(!st.empty()){
-                st.pop(); //balancing closing bracket with an open bracket in stack
-
+                size++;
+            } else if(size>0){
+                size--;
             }
         }
-        // size of stack= number of open barckets in the stack
-        return (st.size()+1)/2;
+        return (size+1)/2;
     }
 };

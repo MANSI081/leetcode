@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/MANSI081/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/MANSI081/leetcode/tree/master/0264-ugly-number-ii) |
+| [0670-maximum-swap](https://github.com/MANSI081/leetcode/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/MANSI081/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MANSI081/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/MANSI081/leetcode/tree/master/2155-find-missing-observations) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/MANSI081/leetcode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MANSI081/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/MANSI081/leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MANSI081/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/MANSI081/leetcode/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MANSI081/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |

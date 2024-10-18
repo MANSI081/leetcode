@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MANSI081/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MANSI081/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2155-find-missing-observations](https://github.com/MANSI081/leetcode/tree/master/2155-find-missing-observations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MANSI081/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MANSI081/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MANSI081/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/MANSI081/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MANSI081/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MANSI081/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MANSI081/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/MANSI081/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Prefix Sum
 |  |
@@ -245,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MANSI081/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MANSI081/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MANSI081/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->

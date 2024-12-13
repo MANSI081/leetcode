@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/MANSI081/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MANSI081/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MANSI081/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MANSI081/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MANSI081/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MANSI081/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Math
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/MANSI081/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MANSI081/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/MANSI081/leetcode/tree/master/2155-find-missing-observations) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MANSI081/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/MANSI081/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MANSI081/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MANSI081/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MANSI081/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MANSI081/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MANSI081/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MANSI081/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/MANSI081/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MANSI081/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MANSI081/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MANSI081/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MANSI081/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MANSI081/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Tree
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MANSI081/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MANSI081/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MANSI081/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MANSI081/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Two Pointers
 |  |
 | ------- |
